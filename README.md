@@ -1,4 +1,4 @@
-# Estudo de Livro de Algoritmos
+# Estudo do Livro de Algoritmos
 
 ### Algoritmos Teoria e Prática
 
